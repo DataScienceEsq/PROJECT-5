@@ -17,3 +17,5 @@ The following files are included in this repo. Each file will need the CSV file 
 (d) CreditCardChurnPySparkDLMODEL.ipynb: Uses Supervised Machine Learning Models to Classify Customers between 0 and 1 as defined above. This file uses SPARK dataframes and associated Keras Deep Learning algorithms having a TensorFlow backend.
 
 (e) CreditCardChurnPySparkMLClustering.ipynb: Uses Unsupervised Machine Learning Models to Cluster Customers in k = 2 clusters between those who keep using their credit cards and those who do not. This file uses SPARK dataframes and associated algorithms such as K-Means etc. Note: The label column is removed from the dataframe to allow for clustering.
+
+Note: The above files may need to be downloaded in raw format before being uploaded to a Jupyter Notebook.
