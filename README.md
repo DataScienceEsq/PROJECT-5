@@ -12,4 +12,8 @@ The following files are included in this repo. Each file will need the CSV file 
 
 (b) CreditCardChurnDLMODEL.ipynb: Uses Supervised Machine Learning Models to Classify Customers between 0 and 1 as defined above. This file uses PANDAS dataframes and associated Keras Deep Learning algorithms having a TensorFlow backend.
 
-(c) 
+(c) CreditCardChurnPySparkMLModel.ipynb: Uses Supervised Machine Learning Models to Classify Customers between 0 and 1 as defined above. This file uses SPARK dataframes and associated algorithms.
+
+(d) CreditCardChurnPySparkDLMODEL.ipynb: Uses Supervised Machine Learning Models to Classify Customers between 0 and 1 as defined above. This file uses SPARK dataframes and associated Keras Deep Learning algorithms having a TensorFlow backend.
+
+(e) 
